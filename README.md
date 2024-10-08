@@ -1,2 +1,1 @@
-# mlops-zoomcamp
-learning MLOPS
+hello
